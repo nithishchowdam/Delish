@@ -1,0 +1,13 @@
+.carousel-item img{
+    max-height:500px;
+    width:75%
+}
+.carousel-control-prev{
+    color:black;
+}
+@media screen and (max-width:590px){
+    .carousel-item img{
+        width:100%;
+        background-color: white !important;
+    }
+}

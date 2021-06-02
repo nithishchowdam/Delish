@@ -1,0 +1,17 @@
+h5{
+    font-family:'Roboto';
+}
+h6{
+    font-family:'Roboto';
+    letter-spacing: 0.05ch;
+}
+.card{
+    border:none;
+}
+button{
+    font-weight:bold;
+}
+.card:hover{
+    box-shadow:0 4px 8px 1px #eb1f09 !important;
+    transition:0.7s;
+}
