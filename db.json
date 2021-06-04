@@ -8,25 +8,25 @@
           "imgPath":"https://images.unsplash.com/photo-1585251174338-f0c60c67d723?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
           "name":"Garlic creme",
           "description":"Roasted onions with rich cream ",
-          "price":50
+          "price":500
           },
          {
           "imgPath":"https://images.unsplash.com/photo-1504669221159-56caf7b07f57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-          "name":"Fennel claims",
+          "name":"Fennel salsa",
           "description":"lamb and fennel with acidity of figs",
-          "price":50
+          "price":499
          },
          {
           "imgPath":"https://images.unsplash.com/photo-1566748805094-443c64209667?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTU1fHxzb3Vwc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
           "name":"Egg white soup",
           "description":"delicacy of egg whites and spices",
-          "price":50
+          "price":500
          },
          {
           "imgPath":"https://images.unsplash.com/photo-1600845285511-12d222278dc9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
           "name":"Peanut mustards",
           "description":"peanuts, praline, mustard",
-          "price":50
+          "price":570
          },
          {
           "imgPath":"https://images.unsplash.com/photo-1615444432044-413ff198ba73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
@@ -46,69 +46,69 @@
             "imgPath":"https://images.unsplash.com/photo-1513104890138-7c749659a591?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGl6emF8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Tandoori paneer",
             "description":"cherries and paneer spice chillies", 
-            "price":50
+            "price":535
           },
           {
             "imgPath":"https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Chicken Tikka",
             "description":"Tandoori masala and red paprika", 
-            "price":50
+            "price":500
           },
           {
             "imgPath":"https://images.unsplash.com/photo-1590947132387-155cc02f3212?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGl6emF8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Farm house",
             "description":"Capsicum, mushrooms, tomatoes", 
-            "price":50
+            "price":559
           },
           {
             "imgPath":"https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGl6emF8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Paprikas' feast",
             "description":"red paprikas with chilli overdose", 
-            "price":50
+            "price":570
           },
           { 
             "imgPath":"https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBpenphfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Deluxe veggie",
             "description":"chillies with roasted onion, cheese", 
-            "price":50
+            "price":590
           },
           { 
             "imgPath":"https://images.unsplash.com/photo-1561350111-7daa4f284bc6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHBpenphfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name":"Smoky house",
             "description":"smoked chicken over five spices", 
-            "price":50
+            "price":1000
           }
         ],
         "salads":[
           {"imgPath":"https://media.istockphoto.com/photos/vegan-detox-buddha-bowl-with-turmeric-roasted-chickpeas-greens-picture-id1130112004?k=6&m=1130112004&s=612x612&w=0&h=qFP9ca2RkcBWTHzjNvYXBr1EZuJa_P4XXZ9iWQbRpTc=",
             "name":"Vegan Detox",
             "description":"Turmeric roasted chickpeas", 
-            "price":50
+            "price":300
           },
           {"imgPath":"https://media.istockphoto.com/photos/vegetable-salad-with-salted-salmon-picture-id1136194600?k=6&m=1136194600&s=612x612&w=0&h=2GTIcEbgjvGf2JimGZi1nHBrMh8j_x8C-IBvyqc3YgU=",
             "name":"Capsicum Salad",
             "description":"Red and yellow capsicums", 
-            "price":50
+            "price":400
           },
           {"imgPath":"https://media.istockphoto.com/photos/homemade-autumn-apple-walnut-spinach-salad-picture-id598567824?k=6&m=598567824&s=612x612&w=0&h=pxfsFUAwdDqWJZ2u8nIJ7lePEhvXLFdH-6MhgY0ZxFA=",
             "name":"Apple Salad",
             "description":"Apple, walnuts and spinach", 
-            "price":50
+            "price":500
           },
           {"imgPath":"https://media.istockphoto.com/photos/quinoa-salad-with-beet-root-and-spinach-picture-id937016542?k=6&m=937016542&s=612x612&w=0&h=DwVpTErBQCHz4Zr9pUgtEYhXyU9tvzGEWSpBckNTRZU=",
             "name":"Beetroot Salad",
             "description":"Beetroot and spinach", 
-            "price":50
+            "price":350
           },
           {"imgPath":"https://media.istockphoto.com/photos/vegetable-salad-with-tuna-and-avocado-picture-id1182647585?k=6&m=1182647585&s=612x612&w=0&h=37JvY7psEXApAAk4Q67S3afLbymelyYWk9AGe0jU104=",
             "name":"Tuna Salad",
             "description":"Tuna and avacado", 
-            "price":50
+            "price":450
           },
           {"imgPath":"https://media.istockphoto.com/photos/salad-with-arugula-spinach-figs-and-goat-cheese-overhead-scene-picture-id608518120?k=6&m=608518120&s=612x612&w=0&h=Mn8qGOqLJQD9tbdccL-YtaB8dlVOf9UfeVBCTkeI-vk=",
             "name":"Figs Salad",
             "description":"Spinach, arugula, figs", 
-            "price":50
+            "price":550
           }
         ],
         "grill":[
@@ -116,36 +116,36 @@
             "imgPath":"https://media.istockphoto.com/photos/hot-toasted-sandwich-fresh-from-the-plate-grill-picture-id1088403682?k=6&m=1088403682&s=612x612&w=0&h=jMHKQoy44qfclxzkjwR8NfdXi9yg3WboLqnSbprwZYQ=",
             "name":"Grill sandwich",
             "description":"Toast of creamy cheese", 
-            "price":50
+            "price":500
           },
           { "imgPath":"https://media.istockphoto.com/photos/big-homemade-sandwich-with-roast-beef-bacon-pickles-baby-spinach-and-picture-id657846890?k=6&m=657846890&s=612x612&w=0&h=XCqchKkMwS3kIQA_Ldv3-WKiD6-XvFmH49CPVp1WMAk=",
             "name":"Chicken sandwich",
             "description":"Bacon pickles, baby spinach", 
-            "price":50
+            "price":510
           },
           {
             "imgPath":"https://media.istockphoto.com/photos/roasted-sea-bream-fish-with-lemon-slices-picture-id855749956?k=6&m=855749956&s=612x612&w=0&h=MlmijvjEtfJZ2TkpZje6sM_j8q-yqfhmcqkQWdNylfM=",
             "name":"Grill fish",
             "description":"Roasted sea bream fish", 
-            "price":50
+            "price":530
           },
           {
             "imgPath":"https://media.istockphoto.com/photos/chicken-kebabs-on-a-white-platter-picture-id1019900018?k=6&m=1019900018&s=612x612&w=0&h=1sVldqNdzEEbtXO04Jl_CbelkyAE6r9v-cK_PoC5vvw=",
             "name":"BBQ Chicken",
             "description":"Roast chicken on hibachi", 
-            "price":50
+            "price":570
           },
           {
             "imgPath":"https://media.istockphoto.com/photos/paneer-tikka-kebab-picture-id849166248?k=6&m=849166248&s=612x612&w=0&h=GYzOdNF3oAcKHqJqHGmD1a586bCGpfBmNsv_zzHz-_Y=",
             "name":"Paneer kebab",
             "description":"paneer, chillies, creme", 
-            "price":50
+            "price":590
           },
           {
             "imgPath":"https://media.istockphoto.com/photos/mexican-grilled-corn-elote-picture-id479631016?k=6&m=479631016&s=612x612&w=0&h=AOYSSg4s0DVzs_hceUiGzP0Tqy3EMagFZVPLo4tPUWo=",
             "name":"Grill corn",
             "description":"Grilled corn with lemon", 
-            "price":50
+            "price":660
           }
         ]
       },
@@ -432,37 +432,37 @@
               "imgPath": "https://i7.fnp.com/images/pr/l/v20210326105752/fudge-brownie-cake_1.jpg",
               "name": "Fudge Brownie cake",
               "description": "A delicious and decadent Brownie Cake made from scratch.",
-              "price": "₹699"
+              "price": 699
             },
             {
               "imgPath": "https://i7.fnp.com/images/pr/l/v20210326105811/red-velvet-fresh-cream-cake_1.jpg",
               "name": "Red Velvet Cake",
               "description": "A Red Velvet Cake is pure delight and offset by a white Cream Cheese.",
-              "price": "₹949"
+              "price": 949
             },
             {
               "imgPath": "https://i7.fnp.com/images/pr/l/creamy-vanilla-fruit-cake_1.jpg",
               "name": "Creamy Vanilla Fruit Cake ",
               "description": " A simple, moist sponge cake layered with fresh cream and fresh fruits.",
-              "price": "₹949"
+              "price": 949
             },
             {
               "imgPath": "https://i7.fnp.com/images/pr/l/pink-strawberry-cream-cake_1.jpg",
               "name": "Pink Strawberry Cream Cake ",
               "description": "A fluffy vanilla cake is loaded with fresh strawberries and a rich whipped cream.",
-              "price": "₹649"
+              "price": 649
             },
             {
               "imgPath": "https://i7.fnp.com/images/pr/l/chocolate-caramel-fudge-cake_1.jpg",
               "name": "Chocolate Caramel Fudge Cake",
               "description": "Salted caramel chocolate fudge cake filled with salted caramel.",
-              "price": "₹649"
+              "price": 649
             },
             {
               "imgPath": "https://i7.fnp.com/images/pr/l/heavenly-oreo-cookie-cake_1.jpg",
               "name": "Heavenly Oreo Cookie Cake",
               "description": "Layers of chocolate pudding, cool whip and cream cheese.",
-              "price": "₹899"
+              "price": 899
             }
           ],
           "icecreams":[
@@ -470,31 +470,31 @@
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1032706.jpg&w=272&h=272&c=sc&poi=face&q=85",
               "name": "Vanilla Ice Cream V",
               "description": "No-cook, no eggs, made with half-and-half and cream.",
-              "price": "₹249"
+              "price": 249
             },
             {
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F435381.jpg&w=272&h=272&c=sc&poi=face&q=85",
               "name": "Ice Cream Base",
               "description": "A custard-style ice cream base that any number of flavors can be added to.",
-              "price": "₹199"
+              "price": 199
             },
             {
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5571405.jpg&w=272&h=272&c=sc&poi=face&q=85",
               "name": "Vegan Horchata Ice Cream",
               "description": "Flavorful rice milk is mixed with coconut cream then churned to give delight.",
-              "price": "₹349"
+              "price": 349
             },
             {
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1586127.jpg&w=272&h=272&c=sc&poi=face&q=85",
               "name": "Super Lemon Ice Cream",
               "description": "Fresh Lemon Ice Cream is like no other ice cream you’ve ever had.",
-              "price": "₹299"
+              "price": 299
             },
             {
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2170022.jpg&w=272&h=272&c=sc&poi=face&q=85",
               "name": "Matcha Green Tea Ice Cream",
               "description": "The Japanese green tea ice cream is not as creamy, It is sweet",
-              "price": "₹399"
+              "price": 399
             },
             {
               "imgPath": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F815784.jpg&w=272&h=272&c=sc&poi=face&q=85",
@@ -509,31 +509,31 @@
                   "name": "OLD PASSIONED",
                   "imgPath": "https://themocktailcompany.com/wp-content/uploads/2019/07/passioned-img-6-555x712.jpg",
                   "description": "An Orange and Passionfruit drink Sparkling",
-                  "price": "₹549"
+                  "price": 549
                 },
                 {
                   "name": "PINO COLADA",
                   "imgPath": "https://themocktailcompany.com/wp-content/uploads/2019/07/pino-img-5-555x712.jpg",
                   "description": "A pina colada inspired drink Still, coconut, pineapple, and cream.",
-                  "price": "₹549"
+                  "price": 549
                 },
                 {
                   "name": "NOJITO",
                   "imgPath": "https://themocktailcompany.com/wp-content/uploads/2019/07/nojit-img-5-555x712.jpg",
                   "description": "A mojito inspired drink. Sparkling, lemon, lime and mint.",
-                  "price": "₹449"
+                  "price": 449
                 },
                 {
                   "name": "MOCKIRI",
                   "imgPath": "https://themocktailcompany.com/wp-content/uploads/2019/07/mojiri-img-6-555x712.jpg",
                   "description": "A strawberry daiquiri inspired drink Sparkling, strawberry and lime.",
-                  "price": "₹599"
+                  "price": 599
                 },
                 {
                   "name": "MIX OF MOCKIRI AND PINO",
                   "imgPath": "https://themocktailcompany.com/wp-content/uploads/2019/07/mockiri-pino-555x712.jpg",
                   "description": "A pina colada inspired drink Still, coconut, pineapple and cream.",
-                  "price": "₹399"
+                  "price": 399
                 },
                 {
                   "name": "MIX OF NOJITO AND PASSIONED",

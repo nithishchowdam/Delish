@@ -1,3 +1,4 @@
+import { analyzeAndValidateNgModules } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 import { Data2Service } from '../data2.service';
 
@@ -9,6 +10,7 @@ import { Data2Service } from '../data2.service';
 export class SoupComponent implements OnInit {
 
   array:any;
+  menu:any
   constructor(private dsobj:Data2Service) { }
 
   ngOnInit(): void {
@@ -16,6 +18,7 @@ export class SoupComponent implements OnInit {
       .subscribe(
          data=>{
         this.array=data;
+        this.menu=this.array.starters.soups;
          },
          err=>{
           console.log("err is ",err)

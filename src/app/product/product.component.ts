@@ -14,9 +14,8 @@ export class ProductComponent implements OnInit {
   bookProduct(t:string){
     this.eve.emit(t)
   }
-
-  constructor() { }
-
+  constructor() { 
+  }
   ngOnInit(): void {
   }
 
