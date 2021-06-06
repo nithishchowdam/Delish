@@ -9,6 +9,7 @@ import { Data2Service } from '../data2.service';
 export class DrinksComponent implements OnInit {
 
   array:any;
+  menu:any;
   constructor(private dsobj:Data2Service) { }
 
   ngOnInit(): void {
@@ -16,6 +17,7 @@ export class DrinksComponent implements OnInit {
       .subscribe(
          data=>{
         this.array=data;
+        this.menu=this.array.dessert.drinks;
          },
          err=>{
           console.log("err is ",err)

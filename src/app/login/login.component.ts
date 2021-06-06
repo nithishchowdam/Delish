@@ -32,4 +32,9 @@ export class LoginComponent implements OnInit {
      }
      
 }
+
+go(){
+  this.router.navigateByUrl("/signup")
+}
+
 }

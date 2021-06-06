@@ -8,6 +8,7 @@ import { Data2Service } from '../data2.service';
 })
 export class SaladComponent implements OnInit {
 
+  menu:any;
   array:any;
   constructor(private dsobj:Data2Service) { }
 
@@ -16,6 +17,7 @@ export class SaladComponent implements OnInit {
       .subscribe(
          data=>{
         this.array=data;
+        this.menu=this.array.starters.salads;
          },
          err=>{
           console.log("err is ",err)

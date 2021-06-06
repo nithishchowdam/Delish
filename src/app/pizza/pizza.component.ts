@@ -8,6 +8,7 @@ import { Data2Service } from '../data2.service';
 })
 export class PizzaComponent implements OnInit {
 
+  menu:any;
   array:any;
   constructor(private dsobj:Data2Service) { }
 
@@ -16,6 +17,7 @@ export class PizzaComponent implements OnInit {
       .subscribe(
          data=>{
         this.array=data;
+         this.menu=this.array.starters.pizzas;
          },
          err=>{
           console.log("err is ",err)

@@ -9,6 +9,7 @@ import { Data2Service } from '../data2.service';
 export class GrillComponent implements OnInit {
 
   array:any;
+  menu:any;
   constructor(private dsobj:Data2Service) { }
 
   ngOnInit(): void {
@@ -16,6 +17,7 @@ export class GrillComponent implements OnInit {
       .subscribe(
          data=>{
         this.array=data;
+        this.menu=this.array.starters.grill;
          },
          err=>{
           console.log("err is ",err)

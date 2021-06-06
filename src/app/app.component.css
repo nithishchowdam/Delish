@@ -41,6 +41,10 @@ li a{
 .offcanvas{
     background-color: #cda45e;
 }
+.offcanvas-title{
+    color:#D33943;
+    font-family:'Roboto';
+}
 .offcanvas-body a{
     color:#D33943;
     font-weight:bold;
