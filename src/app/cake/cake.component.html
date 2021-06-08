@@ -1,14 +1,21 @@
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 m-3">
-    <div class="col" *ngFor="let data of menu;let ind=index">
+    <div class="col" *ngFor="let data of mydata;let ind=index">
         <div class="card shadow mb-3 bg-dark text-white">
             <img [src]="data.imgPath" class="w-100">
             <div class="m-3">
                 <h4 class="h4">{{data.name}}</h4>
                 <div class="d-flex justify-content-between align-items-center m-3">
                 <button class="btn x" [attr.data-bs-target]="'#x'+ind" data-bs-toggle="modal">View</button>
-                <button class="btn y float-end" (click)="bookProduct(data.name)"><i class="fas fa-shopping-cart"></i>ADD TO CART</button>
-                </div>
-           </div>
+
+           <div class="col-6" *ngIf="similarDataCount[ind]==0 ">
+            <button class="btn y float-end" (click)="addToCart(data,ind)"><i class="fas fa-shopping-cart"></i>ADD TO CART</button>
+            </div>
+
+        <div  *ngIf="similarDataCount[ind]==1">
+               <button (click)="removeFromCart(data.id,ind)" > remove from cart</button>
+               <button (click)="goToCart()">go to cart</button>
+        </div>
+
            </div>
            <div class="modal fade" [attr.id]="'x'+ind" data-bs-backdrop="static">
             <div class="modal-dialog modal-lg modal-dialog-centered">

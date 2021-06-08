@@ -32,6 +32,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import {ToastrModule} from "ngx-toastr";
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { AddtocartComponent } from './addtocart/addtocart.component';
 
 @NgModule({
   declarations: [
@@ -60,7 +61,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     SoupComponent,
     StarterComponent,
     VegcurryComponent,
-    CakeComponent
+    CakeComponent,
+    AddtocartComponent
   ],
   imports: [
     BrowserModule,
