@@ -12,9 +12,9 @@
                 <button class="btn y float-end" (click)="addToCart(data,ind)"><i class="fas fa-shopping-cart"></i>ADD TO CART</button>
                 </div>
 
-            <div  *ngIf="similarDataCount[ind]==1">
-                   <button (click)="removeFromCart(data.id,ind)" > remove from cart</button>
-                   <button (click)="goToCart()">go to cart</button>
+            <div  *ngIf="similarDataCount[ind]==1">                   <button   (click)="removeFromCart(data.id,ind)"  class="far fa-trash-alt" > remove</button>
+
+                   <button  class="btn btn-success" (click)="goToCart()">go to cart</button>
             </div>
 
 

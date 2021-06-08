@@ -1,200 +1,11 @@
 {
   "addtocart": [
     {
-      "id": 4,
-      "name": "Egg Biryani",
-      "description": "A seasoned mixture of egg and basmati rice,served with raita...",
-      "imgPath": "https://media.istockphoto.com/photos/egg-biryani-served-with-yogurt-dip-on-a-clay-pot-selective-focus-picture-id651110156?k=6&m=651110156&s=612x612&w=0&h=OsDGAv83asXD26Ag5FfDFhLk684QTLIH4Ao7yBw6z9M=",
-      "price": "223"
-    },
-    {
-      "id": 2,
-      "name": "Mutton Biryani",
-      "description": "An aromatic mixture of rice, lamb, saffron, herbs and spices....",
-      "imgPath": "https://media.istockphoto.com/photos/mutton-gosht-biryani-picture-id469866881?k=6&m=469866881&s=612x612&w=0&h=XjVN6-kyp9WLgEJaRqqLyvP5ve-kS5e6Y5Bfl-jaSXs=",
-      "price": "423"
-    },
-    {
-      "id": 6,
-      "name": "Chana Dal Biryani",
-      "description": "Chana Dal iryani  is the classic vegetarian version with crsipy Dal...",
-      "imgPath": "https://media.istockphoto.com/photos/chana-dal-biryani-picture-id466144379?k=6&m=466144379&s=612x612&w=0&h=Sx62cFxZH4wsDv4Y34PsjBYaaEC274VvzRD1_WUAZ0s=",
-      "price": "223"
-    },
-    {
-      "id": 1,
-      "name": "Chicken Biryani",
-      "description": "Chicken and basmati rice cooked in layers, flavoured with saffron.",
-      "imgPath": "https://media.istockphoto.com/photos/chicken-biryani-with-yogurt-dip-popular-indian-pakistani-non-food-picture-id1254720533?k=6&m=1254720533&s=612x612&w=0&h=Q7G6-4Q2Uc_eTkHhEGiHQmdQaIMR7AXlIsbOOzk0_GM=",
-      "price": "333"
-    },
-    {
-      "id": 3,
-      "name": "Prawns Biryani",
-      "description": "Prawns biryani is a flavourful made using prawns or jingga ....",
-      "imgPath": "https://media.istockphoto.com/photos/king-prawn-biryani-ready-to-serve-picture-id1131411916?k=6&m=1131411916&s=612x612&w=0&h=qNRSEaOVRTWr7On1J0a1fZYb7WVxceIpis7jTTQP0ME=",
-      "price": "233"
-    },
-    {
-      "id": 5,
-      "name": "Paneer Biryani",
-      "description": "A rare combination of paneer and lamb with saffron.....",
-      "imgPath": "https://media.istockphoto.com/photos/vegetarian-paneer-biryani-at-light-blue-background-picture-id1163698856?k=6&m=1163698856&s=612x612&w=0&h=IAEQR4soVth1yiLTFMUfnWboTI97XzJqMs9Z7kGeKP8=",
-      "price": "323"
-    },
-    {
       "id": 65,
       "name": "Garlic Naan",
       "price": 229,
       "description": "Garlic Naan is flatbreads which is served in Indian restaurants. ",
       "imgPath": "https://media.istockphoto.com/photos/homemade-naan-bread-picture-id909879060?k=6&m=909879060&s=612x612&w=0&h=9pNXYEAH0aq5IPA2-jf0oEScnR_752EgF3mJSrkerss="
-    },
-    {
-      "id": 66,
-      "name": "Aloo Paratha",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/aloo-paratha-with-lassi-indian-potato-stuffed-flatbread-with-butter-picture-id1189079893?k=6&m=1189079893&s=612x612&w=0&h=dECOGNht3qdiboRmGsZtN3ICQZXSDnmacYd5zWMn6ZE=",
-      "description": "Aloo paratha is a popular Indian breakfast of unleavened savory ."
-    },
-    {
-      "id": 67,
-      "name": "Butter Paratha",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/daikon-radish-mooli-or-muli-paratha-or-stuffed-radish-paratha-indian-picture-id682516108?k=6&m=682516108&s=612x612&w=0&h=9XpxAnC5hwsIpoSDw40tsIwsHHKeHdTlgYN-7MnpX38=",
-      "description": "a healthy layered flat bread recipe prepared with butter.."
-    },
-    {
-      "id": 64,
-      "name": "Butter Naan",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/naan-an-ovenbaked-flatbread-picture-id1219833092?k=6&m=1219833092&s=612x612&w=0&h=NdTk5vHLAEOzvjAbznkWGv80VgeEvvZUbtPg2aCFvFA=",
-      "description": " A traditional soft Indian flatbread made in the tandoori oven. "
-    },
-    {
-      "id": 63,
-      "name": "Rumali Roti",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/home-made-gluten-free-chickpea-flour-roti-or-besan-roti-or-chapati-or-picture-id1192898976?k=6&m=1192898976&s=612x612&w=0&h=Rwc9aEyaZxg5pENUJLFWWFBVhSr4kdfa2FnYV1x-_9g=",
-      "description": "A type of thin Indian bread that has come from Punjabi cuisine."
-    },
-    {
-      "id": 62,
-      "name": "Tandoori Roti",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/bread-tandoori-indian-cuisine-picture-id1150376593?k=6&m=1150376593&s=612x612&w=0&h=QgIodYl0n2qYT0DebnN-3kncYkl0wtOphTGAxES2RtY=",
-      "description": "A traditional and tasty north indian flatbread  made with wheat "
-    },
-    {
-      "id": 55,
-      "imgPath": "https://media.istockphoto.com/photos/chicken-tikka-masala-picture-id579767430?k=6&m=579767430&s=612x612&w=0&h=CAdNhmF0so4IT2UCj9mmWYhrh6qRfsyAnsbB_OSLECM=",
-      "name": "Chicken Tikka Masala",
-      "price": 337,
-      "description": "Chicken tikka cooked in rich fenugreek flavoured tomato gravy"
-    },
-    {
-      "id": 56,
-      "imgPath": "https://media.istockphoto.com/photos/chicken-curry-creamy-chicken-butter-picture-id1227594550?k=6&m=1227594550&s=612x612&w=0&h=muS-8AmblRR-h_6APEslb_z6GV8924UV8WpmJMZ8hlY=",
-      "name": "Kadai Chicken",
-      "price": 330,
-      "description": "Kadai Chicken (with bone) cooked in flavoured gravy ..."
-    },
-    {
-      "id": 57,
-      "imgPath": "https://media.istockphoto.com/photos/butter-chicken-curry-indian-food-picture-id666559376?k=6&m=666559376&s=612x612&w=0&h=2EXnJd7Q32y9HMHadgLsac3QO_eSr44FDgxNHoG1VcQ=",
-      "name": "Murgh Musallam",
-      "price": 354,
-      "description": "Chicken  curry enriched with spiced minced lamb & boiled egg"
-    },
-    {
-      "id": 60,
-      "imgPath": "https://media.istockphoto.com/photos/kashmiri-rogan-josh-picture-id1217568307?k=6&m=1217568307&s=612x612&w=0&h=yhaVxKLI2vc_zovk3Gj50Ub9zSg9q0jkUPbdvpYQQZ8=",
-      "name": "Mutton Rogan Josh",
-      "description": "Tender mutton pieces simmered in a tomato onion gravy",
-      "price": 499
-    },
-    {
-      "id": 59,
-      "imgPath": "https://media.istockphoto.com/photos/tandoori-chicken-picture-id911502736?k=6&m=911502736&s=612x612&w=0&h=R7dZsMKNBWinaZlgkIp5UCBbvCipPZLpn9hPxKvVprU=",
-      "name": "Chicken Khandhari",
-      "price": 429,
-      "description": "Khandhari is Shredded chicken simmered in a rich aromatic gravy."
-    },
-    {
-      "id": 58,
-      "imgPath": "https://media.istockphoto.com/photos/nawabi-food-mutton-tikka-kebabs-this-types-of-food-are-too-flavourful-picture-id1186963323?k=6&m=1186963323&s=612x612&w=0&h=FP2GknWZ2ayYHnmNqqL8LRc68cJXn89VzcMZUl6TpIU=",
-      "name": "Chicken Nawabhi",
-      "price": 349,
-      "description": "Shredded chicken simmered in fenugreek flavoured mild gravy"
-    },
-    {
-      "id": 54,
-      "name": "Methi Chaman",
-      "imgPath": "https://media.istockphoto.com/photos/aalu-methi-dry-curry-picture-id1136715225?k=6&m=1136715225&s=612x612&w=0&h=T3RN0KLiOsS6jTJU43uDiKVi4jeRPucclN4Qj6vAiUg=",
-      "description": "Aromatic blend of paneer, spinach an fresh fenugreek leaves",
-      "price": 241
-    },
-    {
-      "id": 53,
-      "name": "Paneer Do Pyaza",
-      "imgPath": "https://media.istockphoto.com/photos/paneer-do-pyaza-is-a-popular-punjabi-vegetarian-recipe-using-cubes-of-picture-id1085144774?k=6&m=1085144774&s=612x612&w=0&h=i6f1DpERi2hxFcBhw13hiDZd2uo6gQpBjiDOe6Z1Z0c=",
-      "price": 229,
-      "description": "Assorted vegetables and paneer  steeped in rich cashew gravy."
-    },
-    {
-      "id": 52,
-      "name": "Palak Paneer",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-picture-id1146291429?k=6&m=1146291429&s=612x612&w=0&h=08KHEApmx0Fu0-Hy_ErEhbig3OshMEHjtThtdwRocUY=",
-      "description": "Cottage cheese cooked in spinach puree steeped in rich cashew ."
-    },
-    {
-      "id": 49,
-      "name": "Dal Fry",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/yellow-lentil-soup-or-arhar-daal-picture-id585796696?k=6&m=585796696&s=612x612&w=0&h=IYP_YcttG--jZHJWmM1CSP-QOeeAQfG9iml_botzJPo=",
-      "description": "A rich blend of split red and yellow gram, garnished with  butter"
-    },
-    {
-      "id": 50,
-      "name": "Dal Makhani",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/dal-makhani-or-daal-makhani-indian-lunchdinner-menu-picture-id530506394?k=6&m=530506394&s=612x612&w=0&h=Rl3MRtPu80jJXH10NN4flAdENpupI5uw5MH7ZQiuVyM=",
-      "description": "Simmered black gram and red kidney beans finished with butter "
-    },
-    {
-      "id": 51,
-      "name": "Paneer Butter Masala",
-      "price": 229,
-      "imgPath": "https://media.istockphoto.com/photos/kadai-paneer-picture-id486066908?k=6&m=486066908&s=612x612&w=0&h=_Uf6d8Vt-XXUK0gFe7uOawK3xmH5rCdmg1wa-9u_g8c=",
-      "description": " Cottage cheese cooked in a rich butter cream sauce."
-    },
-    {
-      "id": 8,
-      "imgPath": "https://images.unsplash.com/photo-1504669221159-56caf7b07f57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-      "name": "Fennel salsa",
-      "description": "lamb and fennel with acidity of figs",
-      "price": 499
-    },
-    {
-      "id": 9,
-      "imgPath": "https://images.unsplash.com/photo-1566748805094-443c64209667?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTU1fHxzb3Vwc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "name": "Egg white soup",
-      "description": "delicacy of egg whites and spices",
-      "price": 500
-    },
-    {
-      "id": 12,
-      "imgPath": "https://images.unsplash.com/photo-1603076041992-62e7451c7800?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=762&q=80",
-      "name": "King Fish",
-      "description": "Fish and citrus with fennel",
-      "price": 500
-    },
-    {
-      "id": 10,
-      "imgPath": "https://images.unsplash.com/photo-1600845285511-12d222278dc9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
-      "name": "Peanut mustards",
-      "description": "peanuts, praline, mustard",
-      "price": 570
     },
     {
       "id": 14,
@@ -265,41 +76,6 @@
       "name": "Beetroot Salad",
       "description": "Beetroot and spinach",
       "price": 350
-    },
-    {
-      "id": 30,
-      "imgPath": "https://media.istockphoto.com/photos/mexican-grilled-corn-elote-picture-id479631016?k=6&m=479631016&s=612x612&w=0&h=AOYSSg4s0DVzs_hceUiGzP0Tqy3EMagFZVPLo4tPUWo=",
-      "name": "Grill corn",
-      "description": "Grilled corn with lemon",
-      "price": 660
-    },
-    {
-      "id": 27,
-      "imgPath": "https://media.istockphoto.com/photos/roasted-sea-bream-fish-with-lemon-slices-picture-id855749956?k=6&m=855749956&s=612x612&w=0&h=MlmijvjEtfJZ2TkpZje6sM_j8q-yqfhmcqkQWdNylfM=",
-      "name": "Grill fish",
-      "description": "Roasted sea bream fish",
-      "price": 530
-    },
-    {
-      "id": 26,
-      "imgPath": "https://media.istockphoto.com/photos/big-homemade-sandwich-with-roast-beef-bacon-pickles-baby-spinach-and-picture-id657846890?k=6&m=657846890&s=612x612&w=0&h=XCqchKkMwS3kIQA_Ldv3-WKiD6-XvFmH49CPVp1WMAk=",
-      "name": "Chicken sandwich",
-      "description": "Bacon pickles, baby spinach",
-      "price": 510
-    },
-    {
-      "id": 29,
-      "imgPath": "https://media.istockphoto.com/photos/paneer-tikka-kebab-picture-id849166248?k=6&m=849166248&s=612x612&w=0&h=GYzOdNF3oAcKHqJqHGmD1a586bCGpfBmNsv_zzHz-_Y=",
-      "name": "Paneer kebab",
-      "description": "paneer, chillies, creme",
-      "price": 590
-    },
-    {
-      "id": 28,
-      "imgPath": "https://media.istockphoto.com/photos/chicken-kebabs-on-a-white-platter-picture-id1019900018?k=6&m=1019900018&s=612x612&w=0&h=1sVldqNdzEEbtXO04Jl_CbelkyAE6r9v-cK_PoC5vvw=",
-      "name": "BBQ Chicken",
-      "description": "Roast chicken on hibachi",
-      "price": 570
     },
     {
       "id": 36,
@@ -559,6 +335,97 @@
       "name": "Fennel claims",
       "description": "lamb and fennel with basil",
       "price": 490
+    },
+    {
+      "id": 27,
+      "imgPath": "https://media.istockphoto.com/photos/roasted-sea-bream-fish-with-lemon-slices-picture-id855749956?k=6&m=855749956&s=612x612&w=0&h=MlmijvjEtfJZ2TkpZje6sM_j8q-yqfhmcqkQWdNylfM=",
+      "name": "Grill fish",
+      "description": "Roasted sea bream fish",
+      "price": 530
+    },
+    {
+      "id": 26,
+      "imgPath": "https://media.istockphoto.com/photos/big-homemade-sandwich-with-roast-beef-bacon-pickles-baby-spinach-and-picture-id657846890?k=6&m=657846890&s=612x612&w=0&h=XCqchKkMwS3kIQA_Ldv3-WKiD6-XvFmH49CPVp1WMAk=",
+      "name": "Chicken sandwich",
+      "description": "Bacon pickles, baby spinach",
+      "price": 510
+    },
+    {
+      "id": 28,
+      "imgPath": "https://media.istockphoto.com/photos/chicken-kebabs-on-a-white-platter-picture-id1019900018?k=6&m=1019900018&s=612x612&w=0&h=1sVldqNdzEEbtXO04Jl_CbelkyAE6r9v-cK_PoC5vvw=",
+      "name": "BBQ Chicken",
+      "description": "Roast chicken on hibachi",
+      "price": 570
+    },
+    {
+      "id": 29,
+      "imgPath": "https://media.istockphoto.com/photos/paneer-tikka-kebab-picture-id849166248?k=6&m=849166248&s=612x612&w=0&h=GYzOdNF3oAcKHqJqHGmD1a586bCGpfBmNsv_zzHz-_Y=",
+      "name": "Paneer kebab",
+      "description": "paneer, chillies, creme",
+      "price": 590
+    },
+    {
+      "id": 30,
+      "imgPath": "https://media.istockphoto.com/photos/mexican-grilled-corn-elote-picture-id479631016?k=6&m=479631016&s=612x612&w=0&h=AOYSSg4s0DVzs_hceUiGzP0Tqy3EMagFZVPLo4tPUWo=",
+      "name": "Grill corn",
+      "description": "Grilled corn with lemon",
+      "price": 660
+    },
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "description": "Chicken and basmati rice cooked in layers, flavoured with saffron.",
+      "imgPath": "https://media.istockphoto.com/photos/chicken-biryani-with-yogurt-dip-popular-indian-pakistani-non-food-picture-id1254720533?k=6&m=1254720533&s=612x612&w=0&h=Q7G6-4Q2Uc_eTkHhEGiHQmdQaIMR7AXlIsbOOzk0_GM=",
+      "price": "333"
+    },
+    {
+      "id": 5,
+      "name": "Paneer Biryani",
+      "description": "A rare combination of paneer and lamb with saffron.....",
+      "imgPath": "https://media.istockphoto.com/photos/vegetarian-paneer-biryani-at-light-blue-background-picture-id1163698856?k=6&m=1163698856&s=612x612&w=0&h=IAEQR4soVth1yiLTFMUfnWboTI97XzJqMs9Z7kGeKP8=",
+      "price": "323"
+    },
+    {
+      "id": 7,
+      "imgPath": "https://images.unsplash.com/photo-1585251174338-f0c60c67d723?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Garlic creme",
+      "description": "Roasted onions with rich cream ",
+      "price": 500
+    },
+    {
+      "id": 8,
+      "imgPath": "https://images.unsplash.com/photo-1504669221159-56caf7b07f57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Fennel salsa",
+      "description": "lamb and fennel with acidity of figs",
+      "price": 499
+    },
+    {
+      "id": 9,
+      "imgPath": "https://images.unsplash.com/photo-1566748805094-443c64209667?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTU1fHxzb3Vwc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Egg white soup",
+      "description": "delicacy of egg whites and spices",
+      "price": 500
+    },
+    {
+      "id": 10,
+      "imgPath": "https://images.unsplash.com/photo-1600845285511-12d222278dc9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "name": "Peanut mustards",
+      "description": "peanuts, praline, mustard",
+      "price": 570
+    },
+    {
+      "id": 12,
+      "imgPath": "https://images.unsplash.com/photo-1603076041992-62e7451c7800?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=762&q=80",
+      "name": "King Fish",
+      "description": "Fish and citrus with fennel",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "Prawns Biryani",
+      "description": "Prawns biryani is a flavourful made using prawns or jingga ....",
+      "imgPath": "https://media.istockphoto.com/photos/king-prawn-biryani-ready-to-serve-picture-id1131411916?k=6&m=1131411916&s=612x612&w=0&h=qNRSEaOVRTWr7On1J0a1fZYb7WVxceIpis7jTTQP0ME=",
+      "price": "233"
     }
   ],
   "biryani": [
