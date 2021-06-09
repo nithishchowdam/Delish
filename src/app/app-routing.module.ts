@@ -24,12 +24,14 @@ import { NonvegcurryComponent } from './nonvegcurry/nonvegcurry.component';
 import { RotiComponent } from './roti/roti.component';
 import { BiryaniComponent } from './biryani/biryani.component';
 import { CakeComponent } from './cake/cake.component';
+import { AddtocartComponent } from './addtocart/addtocart.component';
 
 const routes: Routes = [
   {path:'home',component:HomeComponent},
 {path:'signup',component:SignupComponent},
 {path:'login',component:LoginComponent},
 {path:'contactus',component:ContactusComponent},
+{path:'addtocart',component:AddtocartComponent},
 {path:'starter',component:StarterComponent,children:[{path:'soup',component:SoupComponent},
 {path:'pizza',component:PizzaComponent},
 {path:'salad',component:SaladComponent},

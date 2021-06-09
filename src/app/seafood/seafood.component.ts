@@ -8,19 +8,10 @@ import { Data2Service } from '../data2.service';
 })
 export class SeafoodComponent implements OnInit {
 
-  array:any;
-  constructor(private dsobj:Data2Service) { }
+ 
 
   ngOnInit(): void {
-    this.dsobj.getMenuData()
-      .subscribe(
-         data=>{
-        this.array=data;
-         },
-         err=>{
-          console.log("err is ",err)
-        }
-         )
-  }
+   
 
+}
 }
